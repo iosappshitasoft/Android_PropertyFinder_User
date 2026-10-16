@@ -1,0 +1,1 @@
+    Column(modifier = Modifier.verticalScroll(rememberScrollState())) {

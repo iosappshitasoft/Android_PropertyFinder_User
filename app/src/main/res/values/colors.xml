@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    
+    <color name="screen_bg_color">#f5f5f5</color>
+    <color name="textlight">#707070</color>
+    <color name="textprimary">#222222</color>
+    <color name="splash_primary">#FFEA3934</color>
+    <color name="light_red">#F1AAA8</color>
+    <color name="darkBlue">#0832AE</color>
+    <color name="mediumBlue">#5372CF</color>
+    <color name="lightBlue">#A0B1E3</color>
+    <color name="green">#00A663</color>
+    <color name="light_green">#00b665</color>
+    <color name="whatsapp_green">#00e96a</color>
+
+    <color name="slider_unselected">#d3d3d3</color>
+    <color name="pink">#FF46A2</color>
+
+    <!-- ========================================================================= -->
+    <!-- NEW BRAND & UI TOKENS (molumulk 2026 - Handoff v2.0)                     -->
+    <!-- NOTE: Keep legacy colors above until full UI migration is complete        -->
+    <!-- ========================================================================= -->
+
+    <!-- Brand Identity / Logo Colors (Supplied Artwork only - DO NOT use in UI) -->
+    <color name="molumulk_logo_red">#E01834</color>
+    <color name="molumulk_logo_near_black">#171717</color>
+    <color name="molumulk_logo_white">#FFFFFF</color>
+
+    <!-- UI Color Tokens (Production Values) -->
+    <color name="molumulk_primary_coral_red">#FF5A5F</color>
+    <color name="molumulk_accent_coral">#EF4444</color>
+    <color name="molumulk_light_coral_tint">#FEEBE6</color>
+    <color name="molumulk_off_white">#FAFAFA</color>
+    <color name="molumulk_charcoal">#1F2937</color>
+    <color name="molumulk_muted_slate">#667085</color>
+    <color name="molumulk_border_divider">#E7ECF4</color>
+    <color name="molumulk_success_green">#19B36B</color>
+    <color name="molumulk_info_blue">#2563EB</color>
+    <color name="molumulk_whatsapp_green">#25D366</color>
+</resources>

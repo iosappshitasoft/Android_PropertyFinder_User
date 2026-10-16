@@ -1,0 +1,2 @@
+    val sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
+    ModalBottomSheet(onDismissRequest = onDismiss, containerColor = Color.White, sheetState = sheetState) {

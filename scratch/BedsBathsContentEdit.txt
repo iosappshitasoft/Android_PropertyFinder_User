@@ -1,0 +1,3 @@
+    Column(modifier = Modifier.fillMaxWidth()
+        .verticalScroll(rememberScrollState())
+        .padding(start = 20.dp, end = 20.dp, top = 10.dp)) {

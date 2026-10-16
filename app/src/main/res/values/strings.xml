@@ -1,0 +1,338 @@
+<resources>
+    <string name="app_name">Property Finder</string>]
+
+    <string name="google_client_id">878591549071-o7m69r369fm2hkn2fdo7usuf7ievkee7.apps.googleusercontent.com</string>
+    <string name="google_map_key">AIzaSyCGBzSwmAlFJbxl-yD2sKuZrv7KH1mQ31k</string>
+
+    <string name="skip">Skip</string>
+    <string name="connect_wit">Connect with Verified listed\nproperty</string>
+    <string name="google">Google</string>
+    <string name="apple_id">Apple ID</string>
+    <string name="continue_with_email">Continue with mail</string>
+    <string name="welcome_to_property_finder">Welcome to\nproperty finder</string>
+    <string name="or">Or</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign Up</string>
+    <string name="welcome_back">Welcome back.\nSign in to continue.</string>
+    <string name="create_account">Create your account to\nconnect with experts.</string>
+    <string name="email_phone">Email address</string>
+    <string name="enter_email_phone">Enter email address</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="login_account">Login account</string>
+    <string name="continue_text">Continue</string>
+    <string name="terms_footer">By continuing you accept property finder\'s</string>
+    <string name="terms_use">Terms of use</string>
+    <string name="reset_password_title">Reset your password.\nExplore the properties</string>
+    <string name="new_password">New password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="re_enter_password">Re-Enter password</string>
+    <string name="reset_password_btn">Reset your password</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="back">Back</string>
+    <string name="err_password_empty">Please enter both passwords</string>
+    <string name="err_password_match">Passwords do not match</string>
+    <string name="reset_success">Password reset successfully!</string>
+    <string name="welcomeback">Welcome back.\nSign in to continue.</string>
+    <string name="createyouaccount">Create your account to \nconnect with experts..</string>
+    <string name="didyouforgotyoupass">Did you forget your \npassword? Don’t worry.</string>
+    <string name="verify_your_account">Verify your account</string>
+    <string name="enter_the_6_digit_code_sent_to_your_email">Enter the 6-digit code sent to your email</string>
+    <string name="email_address">Email address</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="err_invalid_email">Please enter a valid email address</string>
+    <string name="err_invalid_credentials">Please enter valid email/phone and password</string>
+    <string name="err_invalid_email_phone">Please enter a valid email or phone number</string>
+    <string name="err_password_too_short">Password must be at least 6 characters</string>
+    <string name="login_signup_success">Login/Signup successful!</string>
+    <string name="forgot_password_desc">Forgot Password</string>
+    <string name="didnt_receive_email">Didn\'t receive email? </string>
+    <string name="resend_it">Resend it</string>
+    <string name="verifying">Verifying…</string>
+    <string name="verified">Verified</string>
+    <string name="verify">Verify</string>
+    <string name="details_title">For greater experience , please\nadd the following details</string>
+    <string name="country">Country</string>
+    <string name="select_country">Select country</string>
+    <string name="select_country_hint">Please select a country</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="next">Next</string>
+    <string name="err_phone_invalid">Please enter a valid phone number</string>
+
+    <!-- Bottom Sheet Strings -->
+    <string name="category">Category</string>
+    <string name="property_type">Property Type</string>
+    <string name="price">Price</string>
+    <string name="show_properties">Show properties</string>
+    <string name="clear">Clear</string>
+    <string name="create">Create</string>
+    <string name="view_commercial_properties_rent">View commercial properties for rent only</string>
+    <string name="view_commercial_properties_sale">View commercial properties for sale only</string>
+    <string name="view_commercial_properties_projects">Projects with post-handover payments</string>
+    <string name="dld_registered_projects">DLD registered projects</string>
+    <string name="view_verified_projects_only">View verified projects only</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+
+    <!-- Beds & Baths Strings -->
+    <string name="beds_baths">Beds &amp; Baths</string>
+    <string name="beds">Beds</string>
+    <string name="baths">Baths</string>
+
+    <!-- Amenities Strings -->
+    <string name="amenities">Amenities</string>
+    <string name="search_amenities">Search for amenities</string>
+    <string name="popular">Popular</string>
+    <string name="inthisproperty">In the property</string>
+    <string name="buildingcommunity">Building / community</string>
+    <string name="outoorgarden">Outdoor / garden</string>
+    <string name="pool">Pool</string>
+    <string name="gym">Gym</string>
+    <string name="parking">Parking</string>
+    <string name="garden">Garden</string>
+    <string name="balcony">Balcony</string>
+    <string name="centralac">Central A/C</string>
+    <string name="maidrrom">Maids Room</string>
+    <string name="petsallowed">Pets Allowed</string>
+    <string name="terrace">Terrace</string>
+    <string name="privatepool">Private Pool</string>
+    <string name="elevator">Elevator</string>
+    <string name="barbecuearea">Barbecue Area</string>
+
+    <!-- Account Screen Strings -->
+    <string name="account">Account</string>
+    <string name="profile">Profile</string>
+    <string name="edit">Edit</string>
+    <string name="saved_alerts">Saved alerts</string>
+    <string name="contacted_properties">Contacted properties</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="dubai">Dubai</string>
+    <string name="measurement_system">Measurement system</string>
+    <string name="ft2">ft²</string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="real_estate_resources">Real Estate Resources</string>
+    <string name="find_an_agent">Find an agent</string>
+    <string name="find_companies">Find companies</string>
+    <string name="transaction_in_dubai">Transaction in Dubai</string>
+    <string name="find_developers">Find developers</string>
+    <string name="rent_vs_buy_calculator">Rent vs Buy calculator</string>
+    <string name="other">Other</string>
+    <string name="about_us">About us</string>
+    <string name="rate_us">Rate us</string>
+    <string name="need_help">Need help?</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+    <string name="saved">Saved</string>
+
+    <!-- Edit Profile Strings -->
+    <string name="personal_info">Personal Info</string>
+    <string name="name">Name</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="delete_my_account">Delete my account</string>
+    <string name="save">Save</string>
+    <string name="profile_changed_done">Your profile Changes done</string>
+    <string name="phone_number_saved_successfully">Phone number saved successfully</string>
+    <string name="saved_successfully">Saved successfully</string>
+    <string name="create_alert">Create Alert</string>
+    <string name="alert_name">Alert Name</string>
+    <string name="enter_alert_name">Enter alert name</string>
+    <string name="cancel">Cancel</string>
+    <string name="furnished">Fully Furnished</string>
+    <string name="unfurnished">unfurnished</string>
+    <string name="semi_furnished">Partly Furnished</string>
+    <string name="any_time">Any</string>
+    <string name="last_24_hours">Last 24 hours</string>
+    <string name="last_7_days">Last 7 days</string>
+    <string name="last_30_days">Last 30 days</string>
+    <string name="lisiting_view">Listing View</string>
+    <string name="tours">360 Tours</string>
+    <string name="video_tours">Video Tours</string>
+    <string name="filter">Filter</string>
+    <string name="view_commercial_properties_rent_buy">View commercial properties only</string>
+    <string name="price_period">Price period</string>
+    <string name="bedrooms">Bedrooms</string>
+    <string name="bathrooms">Bathrooms</string>
+    <string name="furnishing_status">Furnishing status</string>
+    <string name="delivery_date">Delivery date</string>
+    <string name="property_size">Property  size (ft²)</string>
+    <string name="min_size">Min.size</string>
+    <string name="max_size">Max.size</string>
+    <string name="see_all_amenities">See all Amenities</string>
+    <string name="posted_date">Posted date</string>
+    <string name="virtual_viewing">Virtual Viewing</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly">Yearly</string>
+    <string name="see_all_properties">See all property types</string>
+    <string name="reset">Reset</string>
+    <string name="show_all_properties">Show All Properties</string>
+    <string name="price_range">Price Range</string>
+
+<!--    Rate us Strings-->
+    <string name="give_feedback">Give a feedback</string>
+    <string name="every_feedback">Every feedback matters for us!</string>
+    <string name="rate_your_experience">Rate your Experience.</string>
+    <string name="do_you_want">Do you want to give us any feedback</string>
+    <string name="please_do_not">Please do not share your personal information</string>
+    <string name="write_your_comment">Write your comment</string>
+    <string name="send_feedback">Send feedback</string>
+
+<!--    About Screen-->
+    <string name="about">About</string>
+    <string name="terms_conditions">Terms &amp; Conditions"</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+<!--    Property details Screen-->
+    <string name="project_details">Project details</string>
+    <string name="view_full_details">View full details</string>
+    <string name="key_information">Key information</string>
+    <string name="see_the_project">See the project brochure</string>
+    <string name="download_brochure">Download brochure</string>
+    <string name="payment_plans">Payment plans</string>
+    <string name="see_full_details">See full details</string>
+    <string name="see_full_description">See full description</string>
+    <string name="about_the_project">About the project</string>
+    <string name="authorised_agencies">Authorised agencies</string>
+    <string name="faq">Faq</string>
+    <string name="masterplan">Masterplan</string>
+    <string name="see_all_authorised">See all authorised agencies</string>
+    <string name="see_all">See all</string>
+    <string name="similar_projects">Similar projects</string>
+    <string name="property_location">Property Location</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="report">Report</string>
+
+    <!--    Report a Problem-->
+    <string name="report_problem">Report a problem</string>
+    <string name="description">Description</string>
+    <string name="report_hint">Be as detailed as you can</string>
+    <string name="attach_files">Attach files</string>
+    <string name="optional">(optional)</string>
+    <string name="no_files_attached">No files attached</string>
+    <string name="report_send_success">Report sent successful</string>
+
+
+    <!--    .................mortgage Section................. -->
+
+    <string name="mortgage_calculator">Mortgage calculator</string>
+
+    <!--    popup-->
+    <string name="estimated_upfront">Estimated upfront costs</string>
+    <string name="payment_breakdown">Payment breakdown</string>
+    <string name="down_payment">Down payment</string>
+    <string name="total_purchase_costs">Total purchase costs</string>
+    <string name="land_department_fee">Land department fee</string>
+    <string name="registration_trustee_fee">Registration trustee fee</string>
+    <string name="mortgage_registration_fee">Mortgage registration fee</string>
+    <string name="real_estate_agency_fee">Real estate agency fee</string>
+    <string name="bank_arrangement_fee">Bank arrangement fee</string>
+    <string name="mortgage_valuation_fee">Mortgage valuation fee</string>
+    <string name="monthly_payment">Monthly payment</string>
+    <string name="interest_rate">Interest rate</string>
+    <string name="loan_amount">Loan amount</string>
+    <string name="loan_duration">Loan duration</string>
+    <string name="total_amount_required">Total amount required upfront</string>
+
+    <string name="get_mortgage_quote">Get mortgage Quote</string>
+    <string name="loan_details">Loan details</string>
+    <string name="employment">Employment</string>
+    <string name="submit">Submit</string>
+    <string name="loan_type">Loan type</string>
+    <string name="buy_house">Buy a house</string>
+    <string name="want_refinance">Want to refinance</string>
+    <string name="residence_status">Residence status</string>
+    <string name="are_you_in_the">Are you in the home buying process?</string>
+    <string name="what_is_your_employment">What is your employment status?</string>
+
+    <string name="your_quote_submitted">Your quote request is Submitted</string>
+    <string name="details_will_be_send">Details will be send to</string>
+    <string name="demo_mail_id">abc@gmail.com</string>
+
+    <!--    .................Rent vs Buy Calculator Section................. -->
+    Comparison
+    <string name="comparison">Comparison</string>
+    <string name="renting">Renting</string>
+    <string name="buying">Buying</string>
+    <string name="annual_rent">Annual rent</string>
+    <string name="purchase_price">Purchase price</string>
+    <string name="mortgage_loan_period">Mortgage loan period</string>
+    <string name="fixed_mortgage_period">Fixed mortgage period</string>
+    <string name="fixed_interest_rate">Fixed interest rate</string>
+    <string name="reversion_rate">Reversion rate</string>
+    <string name="annual_home_price">Annual home price growth rate</string>
+    <string name="annual_rent_growth_rate">Annual rent growth rate</string>
+    <string name="saved_if_buying">Saved if buying</string>
+    <string name="lost_if_renting">Lost if renting</string>
+    <string name="recurring_payments">Recurring payments</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="agent_fees">Agent fees</string>
+    <string name="bank_fees">Bank fees</string>
+    <string name="government_fees">Government fees</string>
+    <string name="mortgage_payment">Mortgage payment</string>
+
+    <string name="choose_map">Choose map</string>
+    <string name="launch_price">Launch price</string>
+
+    <string name="travel_times">Travel Times</string>
+    <string name="where_want">Where want to live near</string>
+    <string name="location_search_placeholder">Building, school, metro station...</string>
+    <string name="select_travel_timing">Select travel Timing</string>
+    <string name="how_would">How would you like to travel</string>
+    <string name="walking">Walking</string>
+    <string name="driving">Driving</string>
+    <string name="find">Find</string>
+
+
+    <string name="price_map">Price map</string>
+    <string name="data_based">Data based on listing prices for the past 3 months</string>
+    <string name="lowest">Lowest</string>
+    <string name="median">Median</string>
+    <string name="highest">Highest</string>
+    <string name="explore_community">Explore community</string>
+    <string name="community_properties">Community properties</string>
+
+    <string name="location">Location</string>
+    <string name="all_available">All available in Seven Palm</string>
+    <string name="view_all">View all</string>
+    <string name="nearest_points">Nearest points of interest</string>
+    <string name="all_distances">All distances are measured in straight lines. Actual travel distances may vary.</string>
+    <string name="read_more">Read more</string>
+    <string name="price_insights">Price Insights</string>
+    <string name="nearby_prices">Nearby prices</string>
+    <string name="average_price">Average price of a 1 bedroom apartment nearest to Seven Palm</string>
+    <string name="properties_available">Properties available in the area</string>
+    <string name="bedrooms_properties">2 bedrooms properties currently available in Palm Jumeirah by price range.</string>
+    <string name="frequently_asked_questions">Frequently asked questions</string>
+    <string name="similar_towers">Similar towers &amp; sub-\ncommunities</string>
+    <string name="key_highlights">Key highlights</string>
+    <string name="price_trends">Price Trends</string>
+    <string name="reviews_from_residents">Reviews from residents</string>
+    <string name="explore_properties">Explore properties</string>
+
+    <string name="review">Reviews</string>
+    <string name="write_a_review">Write a review</string>
+    <string name="review_for">Review for</string>
+    <string name="enter_title">Enter title</string>
+    <string name="write_your_review_here">Write your review here</string>
+
+
+    <string name="guest_user_title">Sign up or log in</string>
+    <string name="guest_user_description">Save searches, sync saved properties, and more.</string>
+
+    <!-- ========================================================================= -->
+    <!-- NEW BRAND STRINGS (molumulk 2026 - Final Handoff v2.0)                   -->
+    <!-- NOTE: Keep legacy strings until full app migration is completed           -->
+    <!-- ========================================================================= -->
+    <string name="molumulk_welcome_to_app">Welcome to\nmolumulk</string>
+    <string name="molumulk_terms_footer">By continuing you accept molumulk\'s</string>
+
+</resources>

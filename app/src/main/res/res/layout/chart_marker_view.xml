@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/chart_popup_bg"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/monthText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:text="March 2025"
+        android:textColor="@color/textprimary"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/redValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Palm Jumeirah 115,817 AED"
+        android:textColor="@color/textprimary"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/blueValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abu Dhabi 432 AED/sqft"
+        android:textColor="@color/textprimary"
+        android:textSize="12sp" />
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+    val sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
+    ModalBottomSheet(onDismissRequest = onDismiss, sheetState = sheetState) {
+
+        Column(modifier = Modifier.fillMaxWidth()
+            .verticalScroll(rememberScrollState())
+            .padding(16.dp)) {
