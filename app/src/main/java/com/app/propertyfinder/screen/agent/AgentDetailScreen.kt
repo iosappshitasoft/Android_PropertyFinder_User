@@ -783,7 +783,7 @@ fun BottomContactBar(navController: NavHostController, agentProfile: AgentProfil
             horizontalArrangement = Arrangement.spacedBy(12.dp),
             verticalAlignment = Alignment.CenterVertically
         ) {
-            // Call Button (non-capsule)
+            // Call Button (rounded circle)
             Button(
                 onClick = {
                     val loginType = PrefUtils.getString(Constants.TAG_LOGIN, "").orEmpty()
@@ -805,26 +805,26 @@ fun BottomContactBar(navController: NavHostController, agentProfile: AgentProfil
                     }
                 },
                 colors = ButtonDefaults.buttonColors(containerColor = MolumulkAccentCoral),
-                shape = RoundedCornerShape(MolumulkDimens.PrimaryCtaRadius),
+                shape = CircleShape,
                 contentPadding = PaddingValues(0.dp),
-                modifier = Modifier.size(MolumulkDimens.PrimaryButtonHeight)
+                modifier = Modifier.size(50.dp)
             ) {
                 Icon(imageVector = ImageVector.vectorResource(R.drawable.contact), contentDescription = "Call", tint = Color.White)
             }
             
-            // View Properties Button (non-capsule)
+            // View Properties Button
             Button(
                 onClick = {
                     navController.navigate(Route.Agents_Properties.createRoute(agentProfile?.id.orEmpty()))
                 },
                 colors = ButtonDefaults.buttonColors(containerColor = MolumulkPrimaryCoralRed),
                 shape = RoundedCornerShape(MolumulkDimens.PrimaryCtaRadius),
-                modifier = Modifier.weight(1f).height(MolumulkDimens.PrimaryButtonHeight)
+                modifier = Modifier.weight(1f).height(50.dp)
             ) {
                 AppTextBold(text = "View properties", color = Color.White, fontSize = 14.sp)
             }
             
-            // WhatsApp Button (non-capsule)
+            // WhatsApp Button (rounded circle)
             Button(
                 onClick = {
                     val loginType = PrefUtils.getString(Constants.TAG_LOGIN, "").orEmpty()
@@ -848,9 +848,9 @@ fun BottomContactBar(navController: NavHostController, agentProfile: AgentProfil
                     }
                 },
                 colors = ButtonDefaults.buttonColors(containerColor = Color(0xFF25D366)),
-                shape = RoundedCornerShape(MolumulkDimens.PrimaryCtaRadius),
+                shape = CircleShape,
                 contentPadding = PaddingValues(0.dp),
-                modifier = Modifier.size(MolumulkDimens.PrimaryButtonHeight)
+                modifier = Modifier.size(50.dp)
             ) {
                 Icon(imageVector = ImageVector.vectorResource(R.drawable.whatapp), contentDescription = "WhatsApp", tint = Color.White)
             }
